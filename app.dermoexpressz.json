@@ -1,0 +1,9 @@
+{
+  "name": "Dermoexpressz",
+  "extra": {
+    "app_id": 1
+  },
+  "updates": {
+    "fallbackToCacheTimeout": 0
+  }
+}

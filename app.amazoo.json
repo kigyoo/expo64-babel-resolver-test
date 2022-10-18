@@ -1,0 +1,9 @@
+{
+  "name": "amazoo",
+  "extra": {
+    "app_id": 2
+  },
+  "updates": {
+    "fallbackToCacheTimeout": 0
+  }
+}
