@@ -1,7 +1,7 @@
 {
-  "name": "Dermoexpressz",
+  "name": "Second App",
   "extra": {
-    "app_id": 1
+    "app_id": 2
   },
   "updates": {
     "fallbackToCacheTimeout": 0

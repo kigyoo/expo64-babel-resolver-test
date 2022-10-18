@@ -1,7 +1,7 @@
 {
-  "name": "webaruhaz.app",
+  "name": "First App",
   "extra": {
-    "app_id": 4
+    "app_id": 1
   },
   "updates": {
     "fallbackToCacheTimeout": 0
